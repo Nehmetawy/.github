@@ -8,4 +8,5 @@ One code file everyday
 
 
 #### Note :
-P5.js editor is pain in arse. Won't use much
+P5.js editor is pain in arse. Won't be using that much. 
+Code is for wrapper around the react component of p5.js with typescript
