@@ -11,6 +11,6 @@ One code file everyday
 #### Note :
 P5.js editor is pain in arse. Won't be using that much.
 
-Good thing is ubantu has good screen recorder. 
+Good thing is ubantu has a mediocre screen recorder. 
 
 Code is for wrapper around the react component of p5.js with typescript
