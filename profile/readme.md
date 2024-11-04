@@ -8,6 +8,17 @@ One code file everyday
 
 [p5 reference](https://p5js.org/reference/)
 
+#### Libraries :
+1. matter.js
+a physics engine
+[matter.js-npm](https://www.npmjs.com/package/matter-js)
+[matter.js-web](https://brm.io/matter-js/)
+
+2. ml5.js
+a machine learning library for browsers
+[ml5.js-npm](https://www.npmjs.com/package/ml5)
+[ml5.js-web](https://docs.ml5js.org/)
+
 #### Note :
 P5.js editor is pain in arse. Won't be using that much.
 
