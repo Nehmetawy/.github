@@ -19,6 +19,10 @@ a machine learning library for browsers
 [ml5.js-npm](https://www.npmjs.com/package/ml5)
 [ml5.js-web](https://docs.ml5js.org/)
 
+3. fractals wiki
+
+[wiki](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)
+
 #### Note :
 P5.js editor is pain in arse. Won't be using that much.
 
