@@ -35,3 +35,7 @@ P5.js editor is pain in arse. Won't be using that much.
 Good thing is ubantu has a mediocre screen recorder. 
 
 Code is for wrapper around the react component of p5.js with typescript
+
+
+#### procedural animations
+https://www.youtube.com/watch?v=qlfh_rv6khY
